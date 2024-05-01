@@ -1,0 +1,109 @@
+body{
+    background-image: url(imagenes/ligapro.jpg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;    
+}
+
+nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-top: 10px;
+    padding-left: 1%;
+    padding-right: 1%;
+    font-weight: bold;
+    background-color: steelblue;
+}
+
+
+ul li{
+    display: inline-block;
+    padding: 0px 20px;
+}
+a{
+    color: white;
+    text-decoration: none;
+}
+
+a:hover{
+    color: black;
+}
+
+p.titulo{
+
+    color: aqua;
+    text-align: center;
+    font-family: cursive;
+    font-size: 100px;
+    
+}
+
+.cuadro{
+    height: 250px;
+    width: 500px;
+    background-color: white;
+    border: 2px solid black;
+    text-align: center;
+    align-content: center;
+    margin: 0 auto;
+
+}
+
+.cuadro1{
+    
+    text-align: center;
+    align-content: center;
+
+}
+
+.cuadro2{
+    height: 250px;
+    width: 500px;
+    background-color: white;
+    border: 2px solid black;
+    align-content: center;
+    margin: 0 auto;
+
+}
+
+.cuadro3{
+    
+    text-align: center;
+    align-content: center;
+
+}
+
+.cuadro4{
+    
+    text-align: center;
+    align-content: center;
+
+}
+
+.cuadro5{
+    
+    text-align: center;
+    align-content: center;
+
+}
+
+.cuadro6{
+    height: 100px;
+    width: 500px;
+    background-color: white;
+    border: 5px solid black;
+    text-align: center;
+    align-content: center;
+    margin: 0 auto;
+    font-size: 30px;
+
+}
+
+.cuadro7{
+    
+    text-align: center;
+    align-content: center;
+
+}
